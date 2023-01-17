@@ -11,8 +11,8 @@ public class FanficChooser {
 		Scanner input = new Scanner(System.in);
 	  Random random = new Random();
 	  String shipName[] = {"ZADR", "OBIKIN", "STYLE", "AKUROKU", "SORIKU", "CREEK", "BUNNY", 
-                         "GIGOLAS", "SIDLINK", "SNUFMIN", "RUSAME", "DAVEKAT", "JOHNDAVE", 
-	    	                 "RINHARU", "FINNPOE", "KYHUX", "DINLUKE", "REXWALKER", "CODYWAN"};
+                               "GIGOLAS", "SIDLINK", "SNUFMIN", "RUSAME", "DAVEKAT", "JOHNDAVE", 
+	    	               "RINHARU", "FINNPOE", "KYHUX", "DINLUKE", "REXWALKER", "CODYWAN"};
     
 	  // Code
 		
